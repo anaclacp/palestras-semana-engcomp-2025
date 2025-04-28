@@ -1,6 +1,6 @@
 # Notas da Semana de Engenharia da Computação 2025
 
-Bem-vindo(a) ao repositório de notas da **Semana de Engenharia da Computação 2025**!
+Bem-vindo(a) ao repositório de notas da **Semana de Engenharia da Computação 2025** - Evento criado pela UNAERP!
 
 Este espaço foi criado para documentar e compartilhar os principais aprendizados, insights e resumos das palestras realizadas durante o evento. O objetivo é consolidar o conhecimento adquirido e servir como referência futura para estudantes da área de TI e colegas de sala da UNAERP. Para auxiliar neste processo de documentação, estou utilizando o modelo **Gemini 2.5 Pro** através do **Google AI Studio** ([aistudio.google.com](https://aistudio.google.com/)).
 
